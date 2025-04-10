@@ -74,3 +74,4 @@ if(num1 <=0){
     }
     Console.WriteLine($"O fatorial de {num1} é {resultado}");
 }
+
